@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BanderasSQLite</string>
+    <string name="inicio_de_sesi_n">INICIO DE SESIÓN</string>
+    <string name="spain_logo">Spain_Logo</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="recordar">Recordar</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="recordar_datos">Recordar datos</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="comunidades">COMUNIDADES</string>
+</resources>
